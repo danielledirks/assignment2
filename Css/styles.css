@@ -36,6 +36,10 @@
     font-family: baskerville;
 }
 
+#signature {
+    font-family: cursive;
+}
+
 p #signature {
     font-family: cursive;
 }
